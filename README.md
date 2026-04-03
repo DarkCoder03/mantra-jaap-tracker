@@ -81,15 +81,15 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your system.
 
 
 2.  Navigate into the project directory:
-Bash
+```Bash
 cd mantra-jaap-tracker
 
 3.  Install the dependencies:
-Bash
+```Bash
 npm install
 
 4.  Start the development server:
-Bash
+```Bash
 npm run dev
 
 
