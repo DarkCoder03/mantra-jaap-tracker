@@ -80,18 +80,17 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your system.
    git clone [https://github.com/DarkCoder03/mantra-jaap-tracker.git](https://github.com/DarkCoder03/mantra-jaap-tracker.git)
 
 
-2.  Navigate into the project directory:
-```Bash
-cd mantra-jaap-tracker
+2. Navigate into the project directory:
+   ```bash
+   cd mantra-jaap-tracker
 
-3.  Install the dependencies:
-```Bash
-npm install
+3. Install the dependencies:
+   ```bash
+   npm install
 
-4.  Start the development server:
-```Bash
-npm run dev
-
+4. Start the development server:
+   ```bash
+   npm run dev
 
 Author
 Anup
