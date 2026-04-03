@@ -35,23 +35,23 @@ Traditional digital counters only count, but this app makes your spiritual pract
 <div align="center">
   
   ### 1. Dashboard & Calendar View
-  ![1st Page](https://imgbox.com/QCMNT01o)
+  ![Dashboard View](https://images2.imgbox.com/f8/44/QCMNT01o_o.png)
   <br/>
 
   ### 2. Immersive Counter Interface
-  ![2nd Page](https://imgbox.com/GcZMfbAS)
+  ![Counter View](https://images2.imgbox.com/5e/88/GcZMfbAS_o.png)
   <br/>
 
   ### 3. Cycle Completion & Feedback
-  ![3rd Page](https://imgbox.com/6d0wjs6p)
+  ![Cycle Completion](https://images2.imgbox.com/69/a1/6d0wjs6p_o.png)
   <br/>
 
   ### 4. Settings & Configuration
-  ![4th Page](https://imgbox.com/E4Lp7sc0)
+  ![Settings](https://images2.imgbox.com/bf/e3/E4Lp7sc0_o.png)
   <br/>
 
   ### 5. Multi-Counter Management
-  ![5th Page](https://imgbox.com/0wyF4YMm)
+  ![Multi-Counter Management](https://images2.imgbox.com/92/30/0wyF4YMm_o.png)
   
 </div>
 
