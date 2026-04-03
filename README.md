@@ -92,9 +92,12 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your system.
    ```bash
    npm run dev
 
-Author
-Anup
-GitHub: @DarkCoder03
+
+## 👤 Author
+
+**Anup**
+<br>
+[![GitHub Badge](https://img.shields.io/badge/GitHub-@DarkCoder03-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DarkCoder03)
 
 📄 License
 Distributed under the MIT License.
