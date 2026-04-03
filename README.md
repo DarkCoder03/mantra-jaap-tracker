@@ -4,7 +4,7 @@
   
   *A minimalist, distraction-free web application to track your daily mantra chanting and spiritual progress.*
 
-  [![Live Demo](https://imgbox.com/QCMNT01o)](https://DarkCoder03.github.io/mantra-jaap-tracker/)
+  [![Live Demo](https://imgbox.com/QCMNT01o)](https://mantra-jaap-tracker-1.vercel.app/)
 
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
